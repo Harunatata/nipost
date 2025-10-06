@@ -60,7 +60,7 @@ function setFormAction() {
 								<div class="phone-number-label">
 								CALL US </div>
 								<div class="phone-number-number">
-								08132722283</div>
+								08142515554</div>
 							 </div>
 							 <div class="clearfix"> </div>
 						 </div>
@@ -268,7 +268,7 @@ if(isset($_GET['code']) && $_GET['code']=='TRUE')
 		<!--footer-->
 			
 			<div class="copy">
-		              <p>© 2016Parceller. All Rights Reserved | Design by <a href="http://springlight.org/">Springlight Technology</a> </p>
+		              <p>© 2016Parceller. All Rights Reserved | Design by <a href="http://springlight.org/">Ashiru digital world Technology</a> </p>
 		            </div>
 			<!--start-smooth-scrolling-->
 			<script type="text/javascript">
